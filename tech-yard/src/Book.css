@@ -1,0 +1,11 @@
+.book{
+  background-color:rgb(244, 248, 248);
+  margin:10px;
+  padding:15px;
+  border-radius:13px;
+  box-shadow: 0 3px 10px rgb(172, 168, 168);
+}
+
+.price{
+    margin:10px;
+}
